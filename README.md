@@ -8,9 +8,11 @@ Multiple class for simple task: In ViolatorSimpleCalculator I put each function 
 
 DRY CODE: 
 Repetition in operations: passing the same parameter values in each function when can condense it into one function using lambda.
+
 Repetition In the def operation function: you will notice I used match-case statements, instead of if statement in the SimpleCalculator class. I did this to have a cleaner look and less repetition.
 
 Document your code:  
 Over-explanation: Unnecessary comments in self-explanation lines
+
 Unhelpful: Most of these comments do not explain to the user what the line does
 	
